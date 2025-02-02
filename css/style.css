@@ -140,7 +140,6 @@ color: white;
     
 }
 @media (max-width: 528px){
-    body{height: 190px;}
     .navbar ul li{
         padding: 5px;
         font-size: 12px;
