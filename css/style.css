@@ -141,7 +141,7 @@ color: white;
 }
 @media (max-width: 528px){
     body{
-        height: 120vh;
+        height: 110vh;
     }
     .navbar ul li{
         padding: 5px;
