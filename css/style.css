@@ -120,6 +120,9 @@ color: white;
     .navbar{
         flex-direction: column;
     }
+    .navbar ul{
+        gap:5px;
+    }
     .contentholder{
         flex-direction: column-reverse;
     }
