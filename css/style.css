@@ -112,7 +112,7 @@ color: white;
 }
 @media (max-width: 990px) {
     body{
-        height: auto;
+        height: 130vh;
         
     }
     .card{
@@ -139,7 +139,7 @@ color: white;
     }
     
 }
-@media (max-width: 528px){
+/* @media (max-width: 528px){
     body{
         height: 150vh;
     }
@@ -148,4 +148,4 @@ color: white;
         font-size: 12px;
         margin-right: 5px;
     }
-}
+} */
