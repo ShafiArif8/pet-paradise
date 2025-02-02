@@ -112,7 +112,7 @@ color: white;
 }
 @media (max-width: 990px) {
     body{
-        height: auto;
+        height: 100vh;
     }
     .card{
         width: auto;
