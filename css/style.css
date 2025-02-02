@@ -112,7 +112,7 @@ color: white;
     background-position: center;
 
 }
-@media (max-width: 990px) {
+/* @media (max-width: 990px) {
     body{
         height: 110vh;
         
@@ -150,4 +150,4 @@ color: white;
         font-size: 12px;
         margin-right: 5px;
     }
-}
+} */
